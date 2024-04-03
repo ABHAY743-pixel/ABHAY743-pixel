@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ABHAY743-pixel
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python and Power BI
+- 🌱 I am also a frontend developer
 - 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me abhay2903gupta@gmail.com
 
